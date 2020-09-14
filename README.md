@@ -1,5 +1,6 @@
 # Backend-code-for-conFusion-Project
-This is the backend code for my project conFusion. I have build the REST API here for conFusion.
+This is the backend code for my project conFusion. I have build the REST API here for conFusion. 
+###### In future i shall integrate this backend project with both of my `Angular Project` & `React Project` of conFusion Project and then upload the projects in https://www.heroku.com/ ######
 
 ### Run mongoDB
 You can run mongoDB by ths command: `mongod --dbpath=data --bind_ip 127.0.0.1`
