@@ -1,5 +1,9 @@
 # Backend-code-for-conFusion-Project
 This is the backend code for my project conFusion. I have build the REST API here for conFusion. 
+`The technologies that i have used here are:`
+- Node.js
+- Express.js
+- MongoDB
 ###### In future i shall integrate this backend project with both of my `Angular Project` & `React Project` of conFusion Project and then upload the projects in https://www.heroku.com/ ######
 
 ### Run mongoDB
