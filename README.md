@@ -6,7 +6,12 @@ This is the **backend** code for my project conFusion. I have build the REST API
 - Express.js
 - MongoDB
 
-***The Node Modules that i have used here are:***
+***The Core Node Modules that i have used here are:***
+- http
+- path
+- fs
+
+***The External Node Modules that i have used here are:***
 - express@4.16.3
 - morgan@1.9.0
 - body-parser@1.18.3
